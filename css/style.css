@@ -43,3 +43,7 @@ h1{
 .yellow-background{
     background-color: yellow;
 }
+
+ul{
+    padding: 11px;
+}
