@@ -1,4 +1,4 @@
-.logo-background{
+.background{
     background-image: url(../img/pattern.png);
     width: 100%;
     height: 150px;
@@ -6,7 +6,7 @@
     background-color:rgb(89, 158, 237);
 }
 
-#logo{
-    height: 150px;
-    width: 200px;
+.logo{
+    width: 250px;
+    margin-top: 70px;
 }
