@@ -1,4 +1,7 @@
 .logo{
     background-image: url(../img/pattern.png);
-    background-size: cover;
+    width: 100%;
+    height: 200px;
+    background-repeat: repeat;
+    background-color:rgb(89, 158, 237);
 }
