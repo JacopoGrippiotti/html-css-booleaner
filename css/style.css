@@ -40,6 +40,6 @@ h1{
     font-weight: bold;
 }
 
-.yellow{
-    color: yellow;
+.yellow-background{
+    background-color: yellow;
 }
