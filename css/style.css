@@ -70,3 +70,8 @@ ul{
     color: white;
     padding-top: 10px;
 }
+
+#graph-text{
+    font-size: larger;
+    margin-left: 3%;
+}
