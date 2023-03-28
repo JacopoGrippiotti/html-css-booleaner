@@ -78,9 +78,17 @@ ul{
 
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 
 .tr-thead{
     background-color: blue;
 }
 
+.tr-tbody{
+    background-color: skyblue;
+}
+
+.width-50{
+    width: 50%;
+}
