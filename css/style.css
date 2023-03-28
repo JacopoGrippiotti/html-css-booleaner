@@ -47,3 +47,12 @@ h1{
 ul{
     padding: 11px;
 }
+
+#monitor-image{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 250px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+}
