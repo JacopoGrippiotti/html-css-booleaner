@@ -56,3 +56,9 @@ ul{
     padding-top: 10px;
     color: white;
 }
+
+#monitor-text{
+    font-size: larger;
+    margin-left: 3%;
+}
+
