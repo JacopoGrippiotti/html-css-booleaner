@@ -62,3 +62,11 @@ ul{
     margin-left: 3%;
 }
 
+#graph-image{
+    background-image: url(../img/graph.jpg);
+    height: 180px;
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    padding-top: 10px;
+}
