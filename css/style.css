@@ -75,3 +75,12 @@ ul{
     font-size: larger;
     margin-left: 3%;
 }
+
+table{
+    width: 100%;
+}
+
+.tr-thead{
+    background-color: blue;
+}
+
